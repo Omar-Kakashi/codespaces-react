@@ -4,22 +4,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+        <h1 style={{ fontSize: '2.5rem', color: '#ff69b4' }}>
+          Good morning Shahy ☀️💖
+        </h1>
+        <p style={{ fontSize: '1.2rem', marginTop: '1rem' }}>
+          Hope you have a wonderful day!
         </p>
       </header>
     </div>
